@@ -1,10 +1,9 @@
 package com.example.roomandroidkotlin
 
-import android.util.Log
 import android.util.Patterns
-import androidx.databinding.Bindable
-import androidx.databinding.Observable
 import androidx.lifecycle.*
+import com.example.roomandroidkotlin.db.Subscriber
+import com.example.roomandroidkotlin.db.SubscriberRepository
 
 import kotlinx.coroutines.launch
 

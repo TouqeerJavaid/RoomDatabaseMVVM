@@ -9,6 +9,10 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.roomandroidkotlin.databinding.ActivityMainBinding
+import com.example.roomandroidkotlin.db.MyRecyclerViewAdapter
+import com.example.roomandroidkotlin.db.Subscriber
+import com.example.roomandroidkotlin.db.SubscriberDatabase
+import com.example.roomandroidkotlin.db.SubscriberRepository
 
 class MainActivity : AppCompatActivity() {
 

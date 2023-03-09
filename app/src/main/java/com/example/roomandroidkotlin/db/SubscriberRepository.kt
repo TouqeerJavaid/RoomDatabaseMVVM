@@ -1,4 +1,4 @@
-package com.example.roomandroidkotlin
+package com.example.roomandroidkotlin.db
 
 class SubscriberRepository(private val dao: SubscriberDao) {
 

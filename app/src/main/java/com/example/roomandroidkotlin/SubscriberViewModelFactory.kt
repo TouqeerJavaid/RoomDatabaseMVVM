@@ -2,6 +2,7 @@ package com.example.roomandroidkotlin
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import com.example.roomandroidkotlin.db.SubscriberRepository
 import java.lang.IllegalArgumentException
 
 

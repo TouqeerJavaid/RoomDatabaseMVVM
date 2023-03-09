@@ -1,10 +1,11 @@
-package com.example.roomandroidkotlin
+package com.example.roomandroidkotlin.db
 
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.RecyclerView
+import com.example.roomandroidkotlin.R
 import com.example.roomandroidkotlin.databinding.ListItemBinding
 
 class MyRecyclerViewAdapter(
